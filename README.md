@@ -15,3 +15,11 @@ The program has the structure:
   * `Author.java` - used for creating author objects
   * `BookTracker.java` - provides functionality and CLI for the program
   * `Main.java` - executes the program
+
+## Functionality
+
+1. [Provide menu](https://github.com/atamalu123/library_book_tracker/blob/main/Screenshots/Menu.png)
+2. [Add book to collection](https://github.com/atamalu123/library_book_tracker/blob/main/Screenshots/Add%20Book.png)
+3. [Remove book from collection](https://github.com/atamalu123/library_book_tracker/blob/main/Screenshots/Remove%20Book.png)
+4. [Find if book is in collection](https://github.com/atamalu123/library_book_tracker/blob/main/Screenshots/Find%20Book.png)
+5. [List all books in collection](https://github.com/atamalu123/library_book_tracker/blob/main/Screenshots/List%20Books.png)
